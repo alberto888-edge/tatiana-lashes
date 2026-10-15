@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tatiana-lashes.vercel.app/sitemap.xml
